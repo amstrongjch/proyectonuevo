@@ -11,8 +11,8 @@ package ec.edu.ups.clases;
  * 
  * @version 2.0
  * @since 2019
- * @autor amstrong
- * @see http://ups.edu.ec
+ * @ hautor amstrong
+ * 
  */
 public class RedSocial {
             private int codigo;//atrivutos
