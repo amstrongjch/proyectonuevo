@@ -8,7 +8,7 @@ package ec.edu.ups.clase1;
 import ec.edu.ups.clases.RedSocial;
 
 /**
- *
+ *hola
  * @author Ordenador
  */
 public class prueba {
@@ -28,4 +28,9 @@ public class prueba {
         System.out.println("url: "+ leer);
         
     }
+    
+    
+    
+    
+    
 }
