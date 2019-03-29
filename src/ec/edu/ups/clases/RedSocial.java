@@ -11,7 +11,7 @@ package ec.edu.ups.clases;
  * 
  * @version 2.0
  * @since 2019
- * @ hautor amstrong
+ * @author amstrong
  * 
  */
 public class RedSocial {
