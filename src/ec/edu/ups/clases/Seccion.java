@@ -5,7 +5,7 @@ package ec.edu.ups.clases;
  * Calase que permite estructurar mi periodici digital
  * @version 2.0
  * @since  2019
- * @author Edison
+ * @author amstrong
  */
 
 public class Seccion {
