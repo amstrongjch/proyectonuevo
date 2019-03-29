@@ -4,10 +4,15 @@
  * and open the template in the editor.
  */
 package ec.edu.ups.clases;
-
 /**
- *
- * @author Ordenador
+ * estructuraperiodica
+ * 
+ * estructura que permite estructurar al periodico digital
+ * 
+ * @version 2.0
+ * @since 2019
+ * @autor amstrong
+ * @see http://ups.edu.ec
  */
 public class RedSocial {
             private int codigo;//atrivutos
